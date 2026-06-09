@@ -55,9 +55,9 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Invoices | GET Retrieve invoice by creditAccountId, DELETE Cancel Invoice, GET Retrieve Invoice by Id, PUT Change Invoice, POST Mark an invoice as Paid, PUT Postpone an invoice, GET Search all invoices |
-| Account | GET Search all accounts, POST Open an Account, PUT Open or Change Account, DELETE Close an Account, GET Retrieve an Account by Id, PUT Update email and description of a account, PUT Change credit limit of an Account, POST Add an account Holder, DELETE Delete an account holder, GET Account statements, PUT Decrease balance of an account, PUT Change tolerance of an account, POST Create a Pre Authorization, DELETE Cancel a Pre Authorization, PUT Create a Pre Authorization (using id), POST Partial or Total Refund a Settlement, PUT Create or Update Settlement |
-| Store Configuration | GET Retrieve store configuration, PUT Create or change store configuration |
+| Invoices | Get retrieve invoice by creditaccountid, Delete cancel invoice, Get retrieve invoice by id, Put change invoice, Post mark an invoice as paid, Put postpone an invoice, Get search all invoices |
+| Account | Get search all accounts, Post open an account, Put open or change account, Delete close an account, Get retrieve an account by id, Put update email and description of a account, Put change credit limit of an account, Post add an account holder, Delete an account holder, Get account statements, Put decrease balance of an account, Put change tolerance of an account, Post create a pre authorization, Delete cancel a pre authorization, Put create a pre authorization using id, Post partial or total refund a settlement, Put create or update settlement |
+| Store Configuration | Get retrieve store configuration, Put create or change store configuration |
 
 ---
 
